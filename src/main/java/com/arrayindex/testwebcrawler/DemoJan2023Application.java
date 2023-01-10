@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoJan2023Application {
 
     public static void main(String[] args) {
-        System.out.println("app is being strated.....");
+        System.out.println("app is being started.....");
         SpringApplication.run(DemoJan2023Application.class, args);
 
     }

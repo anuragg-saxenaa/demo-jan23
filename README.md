@@ -1,1 +1,1 @@
-# demo-jan23
+# sample spring boot project
